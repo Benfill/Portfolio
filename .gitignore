@@ -30,3 +30,7 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+./--force
+--force/_logs/2024-05-24T14_48_36_179Z-debug-0.log
+--force/_update-notifier-last-checked
