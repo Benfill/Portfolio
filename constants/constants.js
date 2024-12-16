@@ -1,6 +1,6 @@
 export const NAME = "Anass Benfillous";
 
-export const DESIGNATION = `FullStack Developer | Laravel Backend Developer | MERN Stack Developer`;
+export const DESIGNATION = `FullStack Developer | Student At YouCode (UM6P - Simplon)`;
 
 export const DETAILS = {
   Residence: "Morocco",
@@ -14,7 +14,7 @@ export const SKILLS = [
     level: "87%",
   },
   {
-    title: "React Developer",
+    title: "Java / Angular Developer",
     level: "91%",
   },
   {
@@ -23,7 +23,7 @@ export const SKILLS = [
   },
   {
     title: "Desktop Application Developer",
-    level: "75%",
+    level: "70%",
   },
   {
     title: "MERN Stack Developer",
@@ -32,8 +32,11 @@ export const SKILLS = [
 ];
 
 export const TECH_STACK = [
+  "Java",
+  "Spring Boot",
   "Laravel",
   "JavaScript",
+  "Angular",
   "ReactJS",
   "NextJS",
   "Tauri",
