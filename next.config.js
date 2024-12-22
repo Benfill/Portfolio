@@ -4,4 +4,7 @@ module.exports = {
     // your project has ESLint errors.
     ignoreDuringBuilds: true,
   },
-}
+  images: {
+    domains: ["https://portfolio-zeta-five-31.vercel.app"],
+  },
+};
