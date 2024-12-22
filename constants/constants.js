@@ -69,3 +69,5 @@ export const SOCIAL_LINKS = {
   TWITTER: "https://twitter.com/Benfill",
   FACEBOOK: "https://www.facebook.com/azasse.58",
 };
+
+export const PROFILE_IMAGE = "https://i.ibb.co/1rnVMXX/anass.jpg";

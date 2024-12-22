@@ -5,6 +5,6 @@ module.exports = {
     ignoreDuringBuilds: true,
   },
   images: {
-    domains: ["https://portfolio-zeta-five-31.vercel.app"],
+    domains: ["https://portfolio-zeta-five-31.vercel.app", 'i.ibb.co'],
   },
 };
