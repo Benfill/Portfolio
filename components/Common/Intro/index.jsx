@@ -22,7 +22,7 @@ const Intro = () => {
       <div className="headerr z-50 absolute bg-MidNightBlack backdrop-blur-sm inset-y-0 h-48 top-0 flex items-center justify-center w-full flex-col px-4 gap-y-4">
         <Image
           className="w-20 h-20 rounded-full"
-          src="/images/anass.jpg"
+          src={"/images/anass.jpg"}
           width={100}
           height={100}
           alt="profile picture"
