@@ -14,6 +14,7 @@ import Tools from "./Tools";
 import Skills from "./Skills";
 import Image from "next/image";
 import { NAME, DESIGNATION, SOCIAL_LINKS } from "../../../constants/constants";
+import profilePic from '../../../public/images/anass.jpg'
 
 const Intro = () => {
   return (
@@ -22,10 +23,11 @@ const Intro = () => {
       <div className="headerr z-50 absolute bg-MidNightBlack backdrop-blur-sm inset-y-0 h-48 top-0 flex items-center justify-center w-full flex-col px-4 gap-y-4">
         <Image
           className="w-20 h-20 rounded-full"
-          src={"/images/anass.jpg"}
+          src={profilePic}
           width={100}
           height={100}
           alt="profile picture"
+          priority
         />
         <div className="flex flex-col items-center justify-center">
           <span className="text-gray-300 text-base font-bold break-normal">
