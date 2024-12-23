@@ -222,8 +222,7 @@ const portfolio = [
     id: 0,
     projectName: "ProdXpert - Online Order Management Application",
     url: "https://github.com/Benfill/Blogify",
-    image:
-      "https://private-user-images.githubusercontent.com/109225791/378191457-a19ab163-4765-4466-8f48-3d4fe19e68e3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ4Nzg0MTcsIm5iZiI6MTczNDg3ODExNywicGF0aCI6Ii8xMDkyMjU3OTEvMzc4MTkxNDU3LWExOWFiMTYzLTQ3NjUtNDQ2Ni04ZjQ4LTNkNGZlMTllNjhlMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyMlQxNDM1MTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZGNlZDc5NjkzYjJmZTdmMTQyYzQ3YTdlZThiZjcwYzY5MjYxZTVmODlhMGExNzk5OTExMGQ3ZGE4YzFmNWQwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.2D8yZ4gzQ4MpED9n4jDddq0oimj3aKKyPTYs9eNyruU",
+    image: "https://i.imghippo.com/files/IOlB9646wIM.png",
     projectDetail:
       "ProdXpert is a powerful and secure web application designed to elevate your business's online order management. It provides a seamless experience for both customers and administrators",
     technologiesUsed: [
@@ -340,8 +339,7 @@ const portfolio = [
     id: 0,
     projectName: "Mo9awil.ma",
     url: "https://github.com/Benfill/Mo9awil.ma",
-    image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/109225791/321859547-9d897763-cedc-4457-a78b-14b17a95d695.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241222%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241222T141036Z&X-Amz-Expires=300&X-Amz-Signature=4ce381ec3afe722997b16bd40df907604695b0748b911ee98ccb980cfef5a514&X-Amz-SignedHeaders=host",
+    image: "https://i.imghippo.com/files/APy1976NuU.png",
     projectDetail:
       "Mo9awil.ma is a user-friendly online platform designed to streamline the process of establishing businesses in Morocco. Whether you're opting for a SARL AU (Société à Responsabilité Limitée avec Associé Unique) or a traditional SARL (Société à Responsabilité Limitée), our platform guides you through the entire process, ensuring a hassle-free experience.",
     technologiesUsed: [
@@ -369,8 +367,7 @@ const portfolio = [
     id: 0,
     projectName: "Event Management Platform",
     url: "https://github.com/Benfill/Evento",
-    image:
-      "https://private-user-images.githubusercontent.com/109225791/311553649-3dd63499-15f9-4428-9761-aaf0a70fb667.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ4NzY1NzcsIm5iZiI6MTczNDg3NjI3NywicGF0aCI6Ii8xMDkyMjU3OTEvMzExNTUzNjQ5LTNkZDYzNDk5LTE1ZjktNDQyOC05NzYxLWFhZjBhNzBmYjY2Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyMlQxNDA0MzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MjA2ZWExNzQ1MjQ4MjQ5NGFiNTg5ZjJhYmM3OWFmNmZjNjE1OTIwMjMyOWY4MDhlYWU0MjhhNTAwMjQ3NDJlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.eXNCWqFcFZgRHy_79ef9ecUd4MS-2-jQn0D8odsRz3M",
+    image: "https://i.imghippo.com/files/Vcou4266Ag.png",
     projectDetail:
       "This Laravel-based project serves as an Event Management Platform, enabling users to register, organize, and attend various events. The application offers a range of features for users, organizers, and administrators, enhancing the overall event experience.",
     technologiesUsed: [
@@ -395,9 +392,7 @@ const portfolio = [
     id: 0,
     projectName: "Internal Communication and Marketing Platform",
     url: "https://github.com/Benfill/Newsletter",
-    image:
-      "https://private-user-images.githubusercontent.com/109225791/305160562-d89c38f1-3b6f-42b4-9c8f-d688ea6c6f90.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ4NzY0NTQsIm5iZiI6MTczNDg3NjE1NCwicGF0aCI6Ii8xMDkyMjU3OTEvMzA1MTYwNTYyLWQ4OWMzOGYxLTNiNmYtNDJiNC05YzhmLWQ2ODhlYTZjNmY5MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyMlQxNDAyMzRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NWRkZGY0ZmEzMDdmNmJmMzIyNmM1ZTU3ODBlMzFiMjNkYWMzNjY5ZjI4YWRiZmRlODExNGVlNTg1NjRhYWYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.JYHJP0lZGfTUnHF_mnyV_NoGm2Yhztz7B3j2SdQDHyc",
-
+    image: "https://i.imghippo.com/files/MxSq7882Ug.png",
     projectDetail:
       "Our client, a rapidly growing company in the communication and marketing sector, recognized the increasing need to centralize and streamline its online operations. To address this, the company decided to develop an internal web platform with advanced features to enhance communication, information management, and team collaboration.",
     technologiesUsed: [
@@ -449,8 +444,7 @@ const portfolio = [
     id: 0,
     projectName: "Helpdesk Ticketing System",
     url: "https://github.com/Benfill/Tickets_Manager",
-    image:
-      "https://private-user-images.githubusercontent.com/109225791/292048670-7a9fe825-2e9a-449c-bd24-6f9f4b551cd1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ4Nzg3NTIsIm5iZiI6MTczNDg3ODQ1MiwicGF0aCI6Ii8xMDkyMjU3OTEvMjkyMDQ4NjcwLTdhOWZlODI1LTJlOWEtNDQ5Yy1iZDI0LTZmOWY0YjU1MWNkMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyMlQxNDQwNTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00OTEzNTA3YzcxNThhMWFkZjg0MmMxOTAwYTQ0NjhiZTU0MmVjOGUzZGU5ZjZhMWZiY2E2ZTMyYzdlY2JmM2M5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.bhcA4p6kT1BgTMO5lCBb4FnQ8JX1qu2BzrwGov6q0sE",
+    image: "https://i.imghippo.com/files/xAp7242PuU.png",
     projectDetail:
       "This project involves the creation of a Helpdesk Ticketing System using native PHP with an object-oriented programming (OOP) approach. The system is designed to facilitate internal communication among developers at The company by providing a centralized platform for managing development needs, bug reports, and other related tasks.",
     technologiesUsed: [
@@ -475,8 +469,7 @@ const portfolio = [
     id: 0,
     projectName: "Wiki™: Explore, Create and Share Knowledge Together!",
     url: "https://github.com/Benfill/Wiki",
-    image:
-      "https://private-user-images.githubusercontent.com/109225791/296519630-e7cfc028-8a1e-496e-8f49-d0f461389365.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ4NzYwNjQsIm5iZiI6MTczNDg3NTc2NCwicGF0aCI6Ii8xMDkyMjU3OTEvMjk2NTE5NjMwLWU3Y2ZjMDI4LThhMWUtNDk2ZS04ZjQ5LWQwZjQ2MTM4OTM2NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyMlQxMzU2MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hYzNlMTQ1ZDIwNTQwMjJhYTU4YzUzOTQwMTJkMDkwNDM5ZWE0MGFiYjU1Y2IzNTAzZDZhMGIzMjYxMzE4ZmZlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.pHVa6WN5Ydz_vFG2KKF2pqXnzNGllXxJRHEQGSiTEow",
+    image: "https://i.imghippo.com/files/ukaM1928c.png",
     projectDetail:
       "A digital space where administrators, authors and researchers come together to create magical experiences. Explore the features of Backstage Chronicles and Frontal Enchantments, guided by the magical technologies and structure detailed in this grimoire.",
     technologiesUsed: [
@@ -533,8 +526,7 @@ const portfolio = [
     id: 0,
     projectName: "Swift Booking",
     url: "https://youcode-classe-e-2023-2024.github.io/Artcode_startup/",
-    image:
-      "https://private-user-images.githubusercontent.com/109225791/280241665-8712905c-7d78-43b3-b18d-01813109074c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ4NzUwNzgsIm5iZiI6MTczNDg3NDc3OCwicGF0aCI6Ii8xMDkyMjU3OTEvMjgwMjQxNjY1LTg3MTI5MDVjLTdkNzgtNDNiMy1iMThkLTAxODEzMTA5MDc0Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyMlQxMzM5MzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yY2I5MDM3YmZkMWI5NDM2ZGM5NzRlMDgyOTA5YTMxMjFiMTQ3ZDcwMWQ5OWI3MGQ3YTUxNzhiMmQ1NTlkZTA0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.f84OvNcrHMru3qZDTmdMfcpzDO8Hij6Wdq7r5P9w8OY",
+    image: "https://i.imghippo.com/files/ckl6418In.png",
     projectDetail:
       "Swift Booking allows users to book restaurant or event places in New York City (NYC), Atlanta, and Los Angeles. Our website offers a user-friendly interface, robust search filters, and the ability to keep your reservation information even after page reloads.",
     technologiesUsed: [

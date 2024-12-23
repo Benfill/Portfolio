@@ -70,4 +70,4 @@ export const SOCIAL_LINKS = {
   FACEBOOK: "https://www.facebook.com/azasse.58",
 };
 
-export const PROFILE_IMAGE = "https://i.ibb.co/1rnVMXX/anass.jpg";
+export const PROFILE_IMAGE = "https://i.imghippo.com/files/qo2793jVw.jpg";
