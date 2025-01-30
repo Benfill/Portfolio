@@ -1,6 +1,41 @@
 const portfolio = [
   {
     id: 0,
+    projectName: "Creation - mo9awil.ma",
+    url: "https://mo9awil.ma",
+    image:
+      "https://private-user-images.githubusercontent.com/109225791/408011764-e30adeef-72e3-42ec-b216-09728efbdb20.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgyMTgwMjgsIm5iZiI6MTczODIxNzcyOCwicGF0aCI6Ii8xMDkyMjU3OTEvNDA4MDExNzY0LWUzMGFkZWVmLTcyZTMtNDJlYy1iMjE2LTA5NzI4ZWZiZGIyMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEzMFQwNjE1MjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZmEzYWI5ODgzZmU0Y2Y5MDAwM2JmYWUyZTIwYjhkM2JhMzA3YTBlYTgzMzJiYjExZGY4Mzk5ZmZjN2QwYjhmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.KkmgHA3jKpmnehEtyGRGazWvPj3fwzNIupF7vFYxWr8",
+    projectDetail:
+      "mo9awil.ma platform is designed to provide a seamless and efficient experience for entrepreneurs looking to establish their businesses with ease.",
+    technologiesUsed: [
+      {
+        tech: "NextJs",
+      },
+      {
+        tech: "NodeMailer",
+      },
+      {
+        tech: "react-hook-form",
+      },
+      {
+        tech: "Chakra-UI",
+      },
+      {
+        tech: "Google Apps Script",
+      },
+      {
+        tech: "TypeScript",
+      },
+      {
+        tech: "Jira",
+      },
+      {
+        tech: "Vercel",
+      },
+    ],
+  },
+  {
+    id: 0,
     projectName: "Sensorium",
     url: "https://github.com/Benfill/Sensorium",
     image: "https://www.exosite.com/hubfs/exosense-dashboard-screen-1.png",
